@@ -1,6 +1,6 @@
 # D-Hand CAD Repository
 
-Well come !!  
+Welcome !!  
 This repository is for D-HAND CAD.  
 The hand is created by [DOUBLE Research and Development Co.,LTD](http://www.j-d.co.jp/dhand/dhand_top.html)  
 Hand's type is A3M-Servo Motor.  
